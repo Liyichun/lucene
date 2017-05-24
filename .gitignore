@@ -1,0 +1,7 @@
+*.class
+.idea/
+.settings
+lucenedb/
+out/
+output/
+*.iml
